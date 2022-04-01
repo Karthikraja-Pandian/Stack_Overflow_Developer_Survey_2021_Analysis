@@ -6,4 +6,4 @@ This year, for example, we observed a significant evolution in the way developer
 
 The challenge and opportunity for us is to continue expanding and improving our ability to help all developers and to make them feel welcome in our community.
 
-Read on for more great insights about the attitudes, tools, and environments that are shaping the art and practice of software today..
+Read on for more great insights about the attitudes, tools, and environments that are shaping the art and practice of software today.
